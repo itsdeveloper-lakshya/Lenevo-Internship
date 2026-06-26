@@ -1,20 +1,129 @@
-<<<<<<< HEAD
-# React + Vite
+# 🚀 SkillPath AI - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive AI-powered career guidance platform built with React.js. This project was developed as part of the **Lenevo Internship** under the **AI-Driven Web and Product Development** program.
 
-Currently, two official plugins are available:
+## 📌 Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+SkillPath AI helps students and job seekers explore career opportunities through an interactive and user-friendly interface. The frontend provides a seamless experience with modern UI components, responsive design, and smooth navigation.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🏠 Responsive Landing Page
+- 📖 About Page
+- 📞 Contact Page
+- 🔐 Authentication Pages (Login & Signup)
+- 👤 User Dashboard
+- 🛠️ Admin Dashboard
+- 🌙 Dark/Light Theme Support
+- 📱 Mobile Responsive Design
+- ⚡ Fast Performance with Vite
+- 🔄 React Router Navigation
+- 🎨 Modern UI Components
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Lenevo-Internship
->>>>>>> 2e48494c75bc1973f6ebe23c4da0cd6d55add09a
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- Vite
+- JavaScript (ES6+)
+- React Router DOM
+- CSS3
+- HTML5
+
+---
+
+## 📂 Project Structure
+
+```
+frontend/
+│── public/
+│── src/
+│   ├── assets/
+│   ├── components/
+│   ├── context/
+│   ├── pages/
+│   ├── routes/
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## 🚀 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/itsdeveloper-lakshya/Lenevo-Internship.git
+```
+
+Navigate to the project
+
+```bash
+cd Lenevo-Internship/frontend
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start the development server
+
+```bash
+npm run dev
+```
+
+---
+
+## 📸 Screenshots
+
+> Add screenshots of:
+- Landing Page
+- Dashboard
+- About Page
+- Contact Page
+
+---
+
+## 🎯 Learning Outcomes
+
+During this project, I learned:
+
+- Building reusable React components
+- Client-side routing using React Router
+- State management in React
+- Responsive UI design
+- Component-based architecture
+- Organizing a scalable React project
+- Modern frontend development with Vite
+
+---
+
+## 📌 Internship
+
+**Organization:** Lenevo  
+**Program:** AI-Driven Web and Product Development Internship
+
+---
+
+## 👨‍💻 Author
+
+**Lakshya Gupta**
+
+- GitHub: https://github.com/itsdeveloper-lakshya
+- LinkedIn: https://www.linkedin.com/in/lakshya-gupta/
+
+---
+
+## 📄 License
+
+This project is developed for educational and internship purposes.
